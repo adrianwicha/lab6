@@ -6,7 +6,7 @@ Adrian Wicha
 
 ```
 git clone https://github.com/adrianwicha/lab6.git
-cd lab6_wicha
+cd lab6
 docker-compose up
 ```
 
