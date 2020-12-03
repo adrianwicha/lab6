@@ -5,7 +5,7 @@ Adrian Wicha
 ## Uruchomienie aplikacji
 
 ```
-git clone https://github.com/adrianwicha/lab6_compose_wicha.git
+git clone https://github.com/adrianwicha/lab6.git
 cd lab6_wicha
 docker-compose up
 ```
